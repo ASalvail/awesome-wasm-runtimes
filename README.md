@@ -1331,7 +1331,7 @@ GraalWasm is a WebAssembly engine implemented in the GraalVM. It can interpret a
 
     <table>
     <tr>
-        <td>C++</td>
+        <td>Rust</td>
     </tr>
     </table>
 
